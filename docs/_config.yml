@@ -1,0 +1,17 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            PDX Community Resources
+tagline:          'Resources for the PDX Community during the COVID-19 Situation.'
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/
+
+plugins:
+  - jekyll-toc
