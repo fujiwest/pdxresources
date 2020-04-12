@@ -14,7 +14,7 @@ call the <a href="https://www.thehotline.org/help/">National Domestic Violence H
 |-----|-----|
 | Washington County Crisis Line:| <A href="tel:15032919111">503-291-9111</A> (24/7/365)|
 |Suicide Lifeline:| <A href="tel:18002738255">1-800-273-8255</A> (24/7/365)|
-| | Text: 273TALK to <A href="sms:839863">839863</A> (8am-11pm PST daily)|
+| | Text: 273TALK to <A href="sms:839863&body=273TALK">839863</A> (8am-11pm PST daily)|
 | Alcohol and Drug Helpline | Call <A href="tel:18009234357">1-800-923-4357</A>|
 | | Text: RecoveryNow to <A href="sms:839863">839863</A> (8am-11pm PST daily)|
 | Military Helpline | Call <A href="tel:18884574838">1-888-457-4838</A> (24/7/365)|
